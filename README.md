@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="align: center;">
   <p>Hi, I'm Yusuf Kaan Çelik 👋</p>
   <p>I am a dedicated developer driven by the challenge of building impactful, user-friendly applications.</p>
   <p>I aim to merge functionality with design to make technology accessible for everyone.</p>
@@ -23,10 +23,10 @@
   <hr>
 
   <h3>📈 GitHub Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufkaancelik&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufkaancelik&layout=compact&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=yusufkaancelik&theme=radical&hide_border=false" />
-
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yusufkaancelik&show_icons=true&theme=radical" />
+    <img src="https://streak-stats.demolab.com?user=yusufkaancelik&theme=radical&hide_border=false" />
+  </div>
   <hr>
 
   <h3>📫 Contact Me:</h3>
