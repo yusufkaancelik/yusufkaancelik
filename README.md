@@ -23,7 +23,7 @@
 
 The **ykc** series: 30 resources built on QBCore for my own server. Most are drop-in replacements for the stock qb scripts.
 
-| | |
+| Resource | What it does |
 |---|---|
 | **ykc-phone** | Full-featured in-game smartphone; metro, bus and music apps plug into it |
 | **ykc-police** | Duty, cuffing, dispatch, speed radar, evidence, MDT tablet, Bolingbroke jail |
